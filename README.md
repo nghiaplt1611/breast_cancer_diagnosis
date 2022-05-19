@@ -1,7 +1,8 @@
 # Fine-tuning MobileNet for Breast Cancer Diagnosis
 ## Transfer learning and fine-tuning pre-trained MobileNet network for breast cancer predictions and classifications
 
-## Accepted as a research paper in 4th International Conference on Inventive Computation and Information Technologies - ICICIT 2022
+### Accepted as a research paper in 4th International Conference on Inventive Computation and Information Technologies - ICICIT 2022
+![Accepted_letter](https://user-images.githubusercontent.com/57785224/169420204-740ffbba-c1fe-443e-b765-c6d12927c315.png)
 
 ### Team members:
 1. Phan Le Trong Nghia
@@ -19,7 +20,7 @@ Breast cancer can be considered one of the significant causes of death, especial
 1. Breast Cancer Classification 
 2. Transfer Learning
 3. Fine-tuning
-4. Convolutional Neural Network}
+4. Convolutional Neural Network
 
 #### Breast ultrasound images classification types
 * Benign breast cancer
