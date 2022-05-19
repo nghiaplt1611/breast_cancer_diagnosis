@@ -2,7 +2,7 @@
 ## Transfer learning and fine-tuning pre-trained MobileNet network for breast cancer predictions and classifications
 
 ### Accepted as a research paper in 4th International Conference on Inventive Computation and Information Technologies - ICICIT 2022
-![Accepted_letter](https://user-images.githubusercontent.com/57785224/169420204-740ffbba-c1fe-443e-b765-c6d12927c315.png)
+![Accepted_letter](https://user-images.githubusercontent.com/57785224/169420410-be8fe7ca-0394-46d6-a478-a768d75214b3.png)
 
 ### Team members:
 1. Phan Le Trong Nghia
