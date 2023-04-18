@@ -2,6 +2,8 @@
 
 #### Accepted as a research paper in 4th International Conference on Inventive Computation and Information Technologies - ICICIT 2022
 
+#### Publication link: [Springer Link](https://link.springer.com/chapter/10.1007/978-981-19-7402-1_60)
+
 #### Team members:
 1. Phan Le Trong Nghia
 2. Dinh Cong Toai
